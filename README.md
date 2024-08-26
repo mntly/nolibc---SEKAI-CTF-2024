@@ -1,5 +1,5 @@
-# nolibc---SEKAI-CTF-2024
-Exploit code for SEKAI CTF 2024
+# nolibc-Project-SEKAI-CTF-2024
+Exploit code for Project SEKAI CTF 2024, **nolibc**
 
 # Explain
 - Korean Version : [Project SEKAI CTF 2024 - nolibc
